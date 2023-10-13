@@ -4,12 +4,15 @@ I've developed a Java-based 2D RPG Game framework that boasts a wide array of fe
 
 To make this possible, I've structured the framework using an object-oriented approach. This decision ensures that you can effortlessly customize the entire game by simply tweaking a few key values. The program code at the heart of this framework incorporates several crucial components, including:
 
-Random Number Generation (RNG) Modifier: This versatile modifier influences various aspects of the game, from generating walls to altering the layout of staircases for level transitions, dictating monster behavior, and controlling their movements.
-Monster Behavior and Quantity Customization: You have the flexibility to adjust how monsters behave and populate the game world according to your preferences.
-Healthbar Options: Customize the health bar to suit your game's specific requirements, allowing you to fine-tune the player's health management.
-Dynamic Sprite Generation: The framework efficiently generates sprites, linking them to their respective variables, ensuring that your game's visual elements align with your vision.
-The current capabilities of the game are quite impressive. As a player, you can:
+Random Number Generation (RNG) Modifier: From generating walls to altering the layout of staircases for level transitions, dictating monster behavior, and controlling their movements.
 
+Monster Behavior and Quantity Customization: You have the flexibility to adjust how monsters behave and populate the game world according to your preferences.
+
+Healthbar Options: Customize the health bar to suit your game's specific requirements, allowing you to fine-tune the player's health management.
+
+Dynamic Sprite Generation: The framework efficiently generates sprites, linking them to their respective variables, ensuring that your game's visual elements align with your vision.
+
+The current capabilities of the game are quite impressive. As a player, you can:
 - Navigate the Game World: Take control of your character and explore the game world with smooth and responsive movement.
 - Combat Enemies: Engage in thrilling battles by colliding with monsters or standing adjacent to them. You have the power to initiate attacks and fend off these foes.
 - Dynamic Enemy AI: Watch as monsters pursue you intelligently, becoming increasingly aggressive as you ascend through levels. They'll chase you relentlessly or cover more ground as the game progresses, making each encounter more challenging.
