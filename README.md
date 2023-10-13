@@ -2,7 +2,7 @@
 
 I've developed a Java-based 2D RPG Game framework that boasts a wide array of features and methods, designed to provide a comprehensive gaming experience. This framework empowers you with the tools to accomplish tasks such as level generation, character movement, transitioning between levels, and initiating basic interactions with formidable enemies.
 
-To make this possible, I've meticulously structured the framework using an object-oriented approach. This decision ensures that you can effortlessly customize the entire game by simply tweaking a few key values. The program code at the heart of this framework incorporates several crucial components, including:
+To make this possible, I've structured the framework using an object-oriented approach. This decision ensures that you can effortlessly customize the entire game by simply tweaking a few key values. The program code at the heart of this framework incorporates several crucial components, including:
 
 Random Number Generation (RNG) Modifier: This versatile modifier influences various aspects of the game, from generating walls to altering the layout of staircases for level transitions, dictating monster behavior, and controlling their movements.
 Monster Behavior and Quantity Customization: You have the flexibility to adjust how monsters behave and populate the game world according to your preferences.
